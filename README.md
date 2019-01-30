@@ -1,3 +1,5 @@
 # Bots4Everyone
 
 # FC PORTO ESTA COM BUGS
+
+**DELETE CLUBS ON THE MAIN PAGE!**
