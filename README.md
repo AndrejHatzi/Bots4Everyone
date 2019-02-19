@@ -1,4 +1,4 @@
-# Bots4Everyone
+# Bots4Everyone - Avisar Falta de NET !!!!!!!!!!!!!!!!!!!!!!!!
 
 # FC PORTO ESTA COM BUGS
 
